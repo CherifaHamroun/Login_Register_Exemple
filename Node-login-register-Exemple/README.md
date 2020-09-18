@@ -9,7 +9,7 @@ sudo apt install nodejs
 ###
 [Install XAMPP  as DB server] (https://vitux.com/how-to-install-xampp-on-your-ubuntu-18-04-lts-system/)
 ###
-Install Advanced Rest Client (Extention of Firefox to test API)
+Install Postman (Extention of Firefox to test API)
 # Implementation
 Create DB on phpMyAdmin  
 ###
@@ -34,5 +34,9 @@ Testing the server
 ```
 node index.js
 ```
-
+### 
+Starting XAMPP 
+```
+sudo /opt/lampp/lampp start
+```
 
