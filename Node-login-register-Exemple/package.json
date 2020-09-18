@@ -1,0 +1,26 @@
+{
+  "name": "node_login_exemple",
+  "version": "1.0.0",
+  "description": "Project demo how to login/register with MySQL using NodeJS through android app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CherifaHamroun/Login_Register_Exemple.git"
+  },
+  "author": "CherifaHamroun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CherifaHamroun/Login_Register_Exemple/issues"
+  },
+  "homepage": "https://github.com/CherifaHamroun/Login_Register_Exemple#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "uuid": "^8.3.0"
+  }
+}
